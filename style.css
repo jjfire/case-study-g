@@ -1,0 +1,13 @@
+.img-responsive{
+    width:10%;
+    height: 20%;
+    }
+
+    .test_image_and_result{
+        background-color: aqua;
+    }
+
+    .candy{
+        background-color: red;
+        font-size: 50px;
+    }
